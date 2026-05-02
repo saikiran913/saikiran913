@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
 
-- 💬 Ask me about :- **💼 5+ years of experience in the IT industry with a strong focus on data engineering 🛠️ Skilled in Azure Data Factory, Synapse, Databricks, Redshift, Glue, Apache Spark & PySpark 🌐 Built secure & efficient data lake architectures and ETL pipelines on cloud 📈 Experience with Power BI, Tableau, and predictive analytics for business intelligence 🧩 Strong in data modeling: Star schema, Snowflake schema, data warehouse design 🧪 DevOps ready: CI/CD using Terraform, Azure DevOps, GitHub Actions 🛡️ Data governance & compliance: IAM, RBAC, GDPR, HIPAA**
+- 💬 Ask me about :- **💼 6+ years of experience in the IT industry with a strong focus on data engineering 🛠️ Skilled in Azure Data Factory, Synapse, Databricks, Redshift, Glue, Apache Spark & PySpark 🌐 Built secure & efficient data lake architectures and ETL pipelines on cloud 📈 Experience with Power BI, Tableau, and predictive analytics for business intelligence 🧩 Strong in data modeling: Star schema, Snowflake schema, data warehouse design 🧪 DevOps ready: CI/CD using Terraform, Azure DevOps, GitHub Actions 🛡️ Data governance & compliance: IAM, RBAC, GDPR, HIPAA**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
