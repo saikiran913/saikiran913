@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sai Kiran</h1>
+<h1 align="center">Hi 👋, I'm Sai Kiran Kommagoni</h1>
 <h3 align="center">🚀 **Data Engineer | Azure & GCP Expert | AI & ML Enthusiast**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiran913&label=Profile%20views&color=0e75b6&style=flat" alt="saikiran913" /> </p>
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **🤖 AI Agent Simulation Projects using Python and Pygame 📊 Advanced Data Modeling & Warehouse Optimization ☁️ Azure Synapse Link & real-time analytics pipelines 🧠 Agent-based AI systems for automation and suggestions**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dashboard](https://github.com/dashboard)
+- 👨‍💻 All of my projects are available at ([https://github.com/dashboard](https://github.com/saikiran913?tab=repositories))
 
 - 💬 Ask me about :- **💼 6+ years of experience in the IT industry with a strong focus on data engineering 🛠️ Skilled in Azure Data Factory, Synapse, Databricks, Redshift, Glue, Apache Spark & PySpark 🌐 Built secure & efficient data lake architectures and ETL pipelines on cloud 📈 Experience with Power BI, Tableau, and predictive analytics for business intelligence 🧩 Strong in data modeling: Star schema, Snowflake schema, data warehouse design 🧪 DevOps ready: CI/CD using Terraform, Azure DevOps, GitHub Actions 🛡️ Data governance & compliance: IAM, RBAC, GDPR, HIPAA**
 
