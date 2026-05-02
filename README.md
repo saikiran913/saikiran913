@@ -11,8 +11,24 @@
 
 - 💬 Ask me about :- **💼 6+ years of experience in the IT industry with a strong focus on data engineering 🛠️ Skilled in Azure Data Factory, Synapse, Databricks, Redshift, Glue, Apache Spark & PySpark 🌐 Built secure & efficient data lake architectures and ETL pipelines on cloud 📈 Experience with Power BI, Tableau, and predictive analytics for business intelligence 🧩 Strong in data modeling: Star schema, Snowflake schema, data warehouse design 🧪 DevOps ready: CI/CD using Terraform, Azure DevOps, GitHub Actions 🛡️ Data governance & compliance: IAM, RBAC, GDPR, HIPAA**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">📫 Connect With Me</h2>
+
 <p align="left">
+  <a href="https://www.linkedin.com/in/sai-kiran-kommagoni/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://www.instagram.com/ksk_data/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://www.youtube.com/@ksk_data1" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+
+  <a href="https://www.tiktok.com/@ksk_data" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
