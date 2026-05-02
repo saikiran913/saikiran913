@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Kiran</h1>
-<h3 align="center">🚀 **Data Engineer | Azure & AWS Expert | AI & ML Enthusiast**</h3>
+<h3 align="center">🚀 **Data Engineer | Azure & GCP Expert | AI & ML Enthusiast**</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiran913&label=Profile%20views&color=0e75b6&style=flat" alt="saikiran913" /> </p>
 
