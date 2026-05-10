@@ -115,18 +115,6 @@ My GitHub repositories are mainly focused on helping learners understand real-wo
   <a href="https://www.linkedin.com/in/sai-kiran-kommagoni/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-
-  <a href="https://www.instagram.com/ksk_data/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-
-  <a href="https://www.youtube.com/@ksk_data1" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-
-  <a href="https://www.tiktok.com/@ksk_data" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
 </p>
 
 ---
